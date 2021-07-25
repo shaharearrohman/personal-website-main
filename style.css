@@ -33,10 +33,27 @@ font-family: 'Roboto', sans-serif;
 }
 #cen{
     text-align: center;
+   
 }
 .light{
     color: coral;
 }
 .small{
     height: 150px;
+}
+.there{
+    width: 20%;
+    float: left;
+    margin: 4%;
+    padding: 2%; 
+    
+}
+.there img{
+    width: 100%;
+    align-items: center;
+}
+.design{
+    box-shadow: 10px 10px 30px gray;
+    height:310px;
+    border-radius: 10px;
 }
